@@ -1,0 +1,11 @@
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Entity\obj\Debug\net8.0\ref\Entity.dll

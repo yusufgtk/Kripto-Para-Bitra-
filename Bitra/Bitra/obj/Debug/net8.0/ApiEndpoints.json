@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "Bitra.Controllers.BlockchainController",
+    "Method": "GetBlockChain",
+    "RelativePath": "bitra/blockchain",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bitra.Controllers.BlockchainController",
+    "Method": "GetPendingTransactions",
+    "RelativePath": "bitra/blockchain/pending-transaction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bitra.Controllers.BlockchainController",
+    "Method": "AddTransaction",
+    "RelativePath": "bitra/blockchain/transaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addTransactionDto",
+        "Type": "Entity.Dtos.AddTransactionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bitra.Controllers.BlockchainController",
+    "Method": "ValidateBlockChain",
+    "RelativePath": "bitra/blockchain/validate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bitra.Controllers.WalletController",
+    "Method": "GetUserWallet",
+    "RelativePath": "bitra/wallet/{address}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "address",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bitra.Controllers.WalletController",
+    "Method": "GenerateWallet",
+    "RelativePath": "bitra/wallet/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "generateWalletDto",
+        "Type": "Entity.Dtos.GenerateWalletDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bitra.Controllers.WalletController",
+    "Method": "WalletLogin",
+    "RelativePath": "bitra/wallet/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "walletLoginDto",
+        "Type": "Entity.Dtos.WalletLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

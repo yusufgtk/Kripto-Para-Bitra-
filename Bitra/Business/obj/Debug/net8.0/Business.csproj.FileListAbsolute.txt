@@ -1,0 +1,17 @@
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\bin\Debug\net8.0\Business.dll
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\bin\Debug\net8.0\Repository.dll
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\bin\Debug\net8.0\Repository.pdb
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\Business.dll
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\yusufgtk\Desktop\Kripto Para\Bitra\Business\obj\Debug\net8.0\ref\Business.dll
